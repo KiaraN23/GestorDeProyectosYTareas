@@ -1,0 +1,188 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas\\GestionProyectosYTareas.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Application\\GestionProyectosYTareas.Application.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Application\\GestionProyectosYTareas.Application.csproj",
+        "projectName": "GestionProyectosYTareas.Application",
+        "projectPath": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Application\\GestionProyectosYTareas.Application.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Domain\\GestionProyectosYTareas.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Domain\\GestionProyectosYTareas.Domain.csproj"
+              },
+              "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Infrastructure\\GestionProyectosYTareas.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Infrastructure\\GestionProyectosYTareas.Infrastructure.csproj"
+              },
+              "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Shared\\GestionProyectosYTareas.Shared.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Shared\\GestionProyectosYTareas.Shared.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Domain\\GestionProyectosYTareas.Domain.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Domain\\GestionProyectosYTareas.Domain.csproj",
+        "projectName": "GestionProyectosYTareas.Domain",
+        "projectPath": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Domain\\GestionProyectosYTareas.Domain.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Infrastructure\\GestionProyectosYTareas.Infrastructure.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Infrastructure\\GestionProyectosYTareas.Infrastructure.csproj",
+        "projectName": "GestionProyectosYTareas.Infrastructure",
+        "projectPath": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Infrastructure\\GestionProyectosYTareas.Infrastructure.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Domain\\GestionProyectosYTareas.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Domain\\GestionProyectosYTareas.Domain.csproj"
+              },
+              "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Shared\\GestionProyectosYTareas.Shared.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Shared\\GestionProyectosYTareas.Shared.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Shared\\GestionProyectosYTareas.Shared.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Shared\\GestionProyectosYTareas.Shared.csproj",
+        "projectName": "GestionProyectosYTareas.Shared",
+        "projectPath": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Shared\\GestionProyectosYTareas.Shared.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas\\GestionProyectosYTareas.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas\\GestionProyectosYTareas.Api.csproj",
+        "projectName": "GestionProyectosYTareas.Api",
+        "projectPath": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas\\GestionProyectosYTareas.Api.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Application\\GestionProyectosYTareas.Application.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Application\\GestionProyectosYTareas.Application.csproj"
+              },
+              "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Domain\\GestionProyectosYTareas.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Domain\\GestionProyectosYTareas.Domain.csproj"
+              },
+              "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Infrastructure\\GestionProyectosYTareas.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Infrastructure\\GestionProyectosYTareas.Infrastructure.csproj"
+              },
+              "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Shared\\GestionProyectosYTareas.Shared.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Shared\\GestionProyectosYTareas.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            },
+            "XAct.Core.PCL": {
+              "target": "Package",
+              "version": "[0.0.5014, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

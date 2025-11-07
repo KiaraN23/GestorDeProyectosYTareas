@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\GestionProyectosYTareas\GestionProyectosYTareas.Shared\bin\Debug\GestionProyectosYTareas.Shared.dll
+C:\Users\User\source\repos\GestionProyectosYTareas\GestionProyectosYTareas.Shared\bin\Debug\GestionProyectosYTareas.Shared.pdb
+C:\Users\User\source\repos\GestionProyectosYTareas\GestionProyectosYTareas.Shared\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\User\source\repos\GestionProyectosYTareas\GestionProyectosYTareas.Shared\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\User\source\repos\GestionProyectosYTareas\GestionProyectosYTareas.Shared\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\User\source\repos\GestionProyectosYTareas\GestionProyectosYTareas.Shared\obj\Debug\GestionProyectosYTareas.Shared.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GestionProyectosYTareas\GestionProyectosYTareas.Shared\obj\Debug\GestionProyectosYTareas.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GestionProyectosYTareas\GestionProyectosYTareas.Shared\obj\Debug\GestionP.6C616751.Up2Date
+C:\Users\User\source\repos\GestionProyectosYTareas\GestionProyectosYTareas.Shared\obj\Debug\GestionProyectosYTareas.Shared.dll
+C:\Users\User\source\repos\GestionProyectosYTareas\GestionProyectosYTareas.Shared\obj\Debug\GestionProyectosYTareas.Shared.pdb

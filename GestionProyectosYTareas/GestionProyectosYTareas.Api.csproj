@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.10" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    <PackageReference Include="XAct.Core.PCL" Version="0.0.5014" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GestionProyectosYTareas.Application\GestionProyectosYTareas.Application.csproj" />
+    <ProjectReference Include="..\GestionProyectosYTareas.Domain\GestionProyectosYTareas.Domain.csproj" />
+    <ProjectReference Include="..\GestionProyectosYTareas.Infrastructure\GestionProyectosYTareas.Infrastructure.csproj" />
+    <ProjectReference Include="..\GestionProyectosYTareas.Shared\GestionProyectosYTareas.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03189C8D-A711-4F01-8E94-3311B50F894B}|GestionProyectosYTareas.Infrastructure\\GestionProyectosYTareas.Infrastructure.csproj|c:\\users\\user\\source\\repos\\gestionproyectosytareas\\gestionproyectosytareas.infrastructure\\appdbcontext\\gestionptdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03189C8D-A711-4F01-8E94-3311B50F894B}|GestionProyectosYTareas.Infrastructure\\GestionProyectosYTareas.Infrastructure.csproj|solutionrelative:gestionproyectosytareas.infrastructure\\appdbcontext\\gestionptdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03189C8D-A711-4F01-8E94-3311B50F894B}|GestionProyectosYTareas.Infrastructure\\GestionProyectosYTareas.Infrastructure.csproj|c:\\users\\user\\source\\repos\\gestionproyectosytareas\\gestionproyectosytareas.infrastructure\\interfaces\\iprojecttrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03189C8D-A711-4F01-8E94-3311B50F894B}|GestionProyectosYTareas.Infrastructure\\GestionProyectosYTareas.Infrastructure.csproj|solutionrelative:gestionproyectosytareas.infrastructure\\interfaces\\iprojecttrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionPTDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Infrastructure\\AppDbContext\\GestionPTDbContext.cs",
+              "RelativeDocumentMoniker": "GestionProyectosYTareas.Infrastructure\\AppDbContext\\GestionPTDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Infrastructure\\AppDbContext\\GestionPTDbContext.cs",
+              "RelativeToolTip": "GestionProyectosYTareas.Infrastructure\\AppDbContext\\GestionPTDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T21:31:18.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProjecttRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Infrastructure\\Interfaces\\IProjecttRepository.cs",
+              "RelativeDocumentMoniker": "GestionProyectosYTareas.Infrastructure\\Interfaces\\IProjecttRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\GestionProyectosYTareas\\GestionProyectosYTareas.Infrastructure\\Interfaces\\IProjecttRepository.cs",
+              "RelativeToolTip": "GestionProyectosYTareas.Infrastructure\\Interfaces\\IProjecttRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T20:54:18.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
